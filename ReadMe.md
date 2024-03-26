@@ -1,0 +1,1 @@
+# Zedeid Edca Secp256k1 Verification Key 2024
